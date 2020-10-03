@@ -5,4 +5,7 @@
 - Key Skills: **Apache Spark**, **Hadoop Ecosystem** and **Java**.
 - Let's Connect: [Linkeldn Profile](https://www.linkedin.com/in/pradyumn-agrawal/)
 
-![Stats added](https://github-readme-stats.vercel.app/api?username=coderbond007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Stats added](https://github-readme-stats.vercel.app/api?username=coderbond007&&show_icons=true)
+<!--
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbond007)
+-->
